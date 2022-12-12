@@ -1,6 +1,6 @@
 # NTJ-Python_Math_LinearAlgebra
 :octocat: This repository contains the notes and code examples of linear algebra.<br></br>
-The notes contain the modules outlined below:
+The notes contain the modules outlined below: Enjoy!
 |No.| Module| Gist|
 |---|---|---|
 |1| Array Multiplication|<li>1.1 Dot Product / Inner Product / Quantity Product / Scalar Product</li><li>1.2 Cross Product / Outer Product / Vector Product</li><li>1.3 Tensor Product / Outer Product</li><li>1.4 Matrix Multiplication</li><li>1.5 Kronecker Product</li><li>1.6 Multiple Matrix Multiplication</li>|
